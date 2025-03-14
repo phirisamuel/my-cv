@@ -82,21 +82,23 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Graduate Research Assistant
-    company_name: Duke Quantum Center
-    company_url: 'https://quantum.duke.edu'
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2019-08-17
-    date_end: 'current'
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      - 
-  - position: Research Intern
-    company_name: IBM Research
-    company_url: 'https://research.ibm.com'
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
     company_logo: ''
-    date_start: 2023-05-21
-    date_end: 2023-08-11
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
