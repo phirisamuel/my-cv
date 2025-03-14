@@ -86,8 +86,8 @@ work:
     company_name: Duke Quantum Center
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-08-17
+    date_end: 'current'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
