@@ -99,9 +99,9 @@ work:
     date_end: 2023-08-11
     summary: |
       Responsibilities include:
-      - Used Qiskit SDK to write quantum experiments and submit jobs to large-scale superconducting quantum processors.
-      - Conducted numerical simulations and developed physical models for quantum systems.
-      - Contributed to the development of a quantum simulation algorithm for thermal state preparation using dynamic circuits.
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
