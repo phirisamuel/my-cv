@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Samuel Phiri. This work is licensed under {license}'
+    notice: '© {year} Samuel Phiri.'
     license:
       enable: true
       allow_derivatives: false
