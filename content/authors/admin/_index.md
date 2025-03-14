@@ -90,12 +90,7 @@ work:
     date_end: 'current'
     summary: |2-
       Responsibilities include:
-      - Designed and validated experimental setups for ion-trap quantum computation, optimizing performance in UHV and cryogenic environments.
-      - Led characterization and validation of trapped-ion devices using high-precision optics, RF electronics, and laser spectroscopy techniques.
-      - Developed automated hardware control and data acquisition pipelines using Python for device testing and validation.
-      - Conducted failure analysis and troubleshooting of optical, electrical, and mechanical components in trapped-ion systems.
-      - Collaborated with multidisciplinary teams to optimize quantum hardware performance.
-      - Worked on probe station measurements and optical profilometry for microfabricated device characterization.
+      - 
   - position: Research Intern
     company_name: IBM Research
     company_url: 'https://research.ibm.com'
