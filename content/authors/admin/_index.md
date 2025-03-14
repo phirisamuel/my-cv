@@ -90,9 +90,12 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Used Qiskit SDK to write quantum experiments and submit jobs to large-scale superconducting quantum processors.
-      - Conducted numerical simulations and developed physical models for quantum systems.
-      - Contributed to the development of a quantum simulation algorithm for thermal state preparation using dynamic circuits.
+      - Designed and validated experimental setups for ion-trap quantum computation, optimizing performance in UHV and cryogenic environments.
+      - Led characterization and validation of trapped-ion devices using high-precision optics, RF electronics, and laser spectroscopy techniques.
+      - Developed automated hardware control and data acquisition pipelines using Python for device testing and validation.
+      - Conducted failure analysis and troubleshooting of optical, electrical, and mechanical components in trapped-ion systems.
+      - Collaborated with multidisciplinary teams to optimize quantum hardware performance.
+      - Worked on probe station measurements and optical profilometry for microfabricated device characterization.
   - position: Research Intern
     company_name: IBM Research
     company_url: ''
@@ -101,9 +104,9 @@ work:
     date_end: 2023-08-11
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Used Qiskit SDK to write quantum experiments and submit jobs to large-scale superconducting quantum processors.
+      - Conducted numerical simulations and developed physical models for quantum systems.
+      - Contributed to the development of a quantum simulation algorithm for thermal state preparation using dynamic circuits.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
