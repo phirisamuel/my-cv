@@ -59,10 +59,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Quantum Information Science
+    institution: Duke University
+    date_start: 2019-08-17
+    date_end: 2022-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -70,40 +70,43 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BS Electrical Engineering
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-08-15
+    date_end: 2019-05-05
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.75/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Graduate Research Assistant
+    company_name: Duke Quantum Center
+    company_url: 'https://quantum.duke.edu'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-08-17
+    date_end: 'current'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Designed and validated experimental setups for ion-trap quantum computation, optimizing performance in UHV and cryogenic environments.
+      - Led characterization and validation of trapped-ion devices using high-precision optics, RF electronics, and laser spectroscopy techniques.
+      - Developed automated hardware control and data acquisition pipelines using Python for device testing and validation.
+      - Conducted failure analysis and troubleshooting of optical, electrical, and mechanical components in trapped-ion systems.
+      - Collaborated with multidisciplinary teams to optimize quantum hardware performance.
+      - Worked on probe station measurements and optical profilometry for microfabricated device characterization.
+  - position: Research Intern
+    company_name: IBM Research
+    company_url: 'https://research.ibm.com'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-21
+    date_end: 2023-08-11
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Used Qiskit SDK to write quantum experiments and submit jobs to large-scale superconducting quantum processors.
+      - Conducted numerical simulations and developed physical models for quantum systems.
+      - Contributed to the development of a quantum simulation algorithm for thermal state preparation using dynamic circuits.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
