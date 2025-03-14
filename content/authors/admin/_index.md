@@ -41,9 +41,13 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0003-1641-6820
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Trapped-ion quantum hardware – Designing and optimizing scalable quantum processors.
+  - Quantum simulation – Modeling molecules, materials, and complex quantum systems.
+  - High-fidelity quantum gates – Implementing precise quantum control and error mitigation.
+  - Cryogenic and UHV systems – Experimental techniques for stable quantum operations.
+  - Metascience – Exploring the science of scientific progress and methodology.
+  - Mentorship & outreach – Supporting students and early-career researchers in quantum computing.
+
 
 education:
   - area: PhD Quantum Informantion Science
