@@ -155,7 +155,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Mastercard Foundation Scholars Program
     url: https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/
     date: '2023-11-25'
     awarder: Coursera
