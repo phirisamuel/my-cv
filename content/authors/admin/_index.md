@@ -55,7 +55,7 @@ education:
     date_start: 2019-08-17
     date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "Coming soon". PhD Advisors: Prof. Kenneth R. Brown & Prof. Jungsang Kim.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
