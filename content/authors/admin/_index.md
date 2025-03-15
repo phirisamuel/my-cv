@@ -305,9 +305,7 @@ awards:
       The Mastercard Foundation Scholars Program is a global initiative empowering the next generation of transformative leaders. It supports talented, service-driven students in accessing higher education and developing their leadership potential to create meaningful impact in their communities.
 
 ---
-
-## About Me
-
+##
 I work at the intersection of quantum hardware and computation, designing and optimizing integrated systems for trapped-ion quantum processors. My research focuses on building scalable quantum architectures, implementing high-fidelity quantum gates, and leveraging quantum simulation for practical applications. I’m always open to collaborating with researchers at all levels, including those new to quantum computing or research in general. 
 
 I owe my journey in quantum research to a network of mentors, colleagues, and learning opportunities that has shaped my path. 
