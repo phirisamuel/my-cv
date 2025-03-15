@@ -117,7 +117,18 @@ work:
       - Used Qiskit SDK to write quantum experiments and submit jobs to large-scale superconducting quantum processors.
       - Conducted numerical simulations and developed physical models for quantum systems.
       - Contributed to the development of a quantum simulation algorithm for thermal state preparation using dynamic circuits.
-
+  - position: Electrical and Computer Engineering REU
+    company_name: Duke University, Pratt School of Engineering, 
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-05-15
+    date_end: 2018-07-20
+    summary: |
+      Responsibilities include:
+      - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
+      - Controlled the defect density of GAC and modified its surface to improve H2O2 generation
+      - Studied GAC electrodes and their surface chemistry in producing H2O2 following N-doping by annealing in NH3
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
