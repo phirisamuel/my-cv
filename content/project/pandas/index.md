@@ -1,7 +1,7 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Modular software for real-time quantum control systems
+date: 2022-11-22
+external_link: https://ieeexplore.ieee.org/abstract/document/9951290
 tags:
   - Hugo
   - Wowchemy
