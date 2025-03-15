@@ -71,7 +71,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Electrical Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Michigan State University
     date_start: 2015-08-15
     date_end: 2019-05-05
     summary: |
