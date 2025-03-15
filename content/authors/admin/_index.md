@@ -56,9 +56,9 @@ education:
     date_end: 2025-06-30
     summary: |
       Thesis on "Coming soon". PhD Advisors: Prof. Kenneth R. Brown & Prof. Jungsang Kim.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MS Quantum Information Science
     institution: Duke University
     date_start: 2019-08-17
