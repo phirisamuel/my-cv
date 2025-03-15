@@ -98,7 +98,7 @@ work:
     company_logo: ''
     date_start: 2019-08-17
     date_end: ''
-    summary: |3-
+    summary: |2-
       Responsibilities include:
       - Designed and validated experimental setups for ion-trap quantum computation, optimizing performance in UHV and cryogenic environments.
       - Led characterization and validation of trapped-ion devices using high-precision optics, RF electronics, and laser spectroscopy techniques.
@@ -128,17 +128,17 @@ work:
       - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
       - Controlled the defect density of GAC and modified its surface to improve $H_2O_2$ generation
       - Studied GAC electrodes and their surface chemistry in producing $H_2O_2$ following N-doping by annealing in $NH_3$
-  - position: Undergraduate Learning Assistant (Lab Mentor): Introduction to Engineering Modeling
-    company_name: Michigan State University, College of Engineering
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-01-15
-    date_end: 2019-05-2
-    summary: |
-      Responsibilities include:
-      - Guided students through laboratory assignments relating to system identification and modeling using MATLAB and Excel
-      - Responded to any student questions regarding laboratory rules, assignments, lectures and projects
-      - Assisted Teaching Assistants (TAs) to facilitate open laboratory hours
+  # - position: Undergraduate Learning Assistant (Lab Mentor): Introduction to Engineering Modeling
+  #   company_name: Michigan State University, College of Engineering
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2018-01-15
+  #   date_end: 2019-05-2
+  #   summary: |
+  #     Responsibilities include:
+  #     - Guided students through laboratory assignments relating to system identification and modeling using MATLAB and Excel
+  #     - Responded to any student questions regarding laboratory rules, assignments, lectures and projects
+  #     - Assisted Teaching Assistants (TAs) to facilitate open laboratory hours
   # - position: Electrical Engineering Research Intern
   #   company_name: University of Cape Town, Control Laboratory 
   #   company_url: ''
@@ -148,16 +148,16 @@ work:
   #   summary: |
   #     Responsibilities include:
   #     -  
-  # - position: Honors Research Assistant
-  #   company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-08-15
-  #   date_end: 2017-05-2
-  #   summary: |
-  #     Responsibilities include:
-  #     - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
-  #     - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
+  - position: Honors Research Assistant
+    company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-08-15
+    date_end: 2017-05-2
+    summary: |
+      Responsibilities include:
+      - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
+      - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
  
 
 # Skills
