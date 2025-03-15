@@ -38,8 +38,6 @@ sections:
         I work at the intersection of quantum hardware and computation, focusing on the development of scalable trapped-ion quantum processors. My research explores high-fidelity quantum gates, quantum simulation, and hardware architectures optimized for real-world quantum applications.
 
         I apply a combination of experimental and computational methods to push the boundaries of quantum computing, bridging theory and implementation.
-
-        Always open to discussions and collaborations—feel free to reach out! 😃  
     design:
       columns: '1'
   - block: collection
