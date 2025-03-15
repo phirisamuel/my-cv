@@ -146,6 +146,8 @@ work:
     date_start: 2017-05-15
     date_end: 2017-08-2
     summary: |
+      Responsibilities include:
+      -  
   - position: Honors Research Assistant
     company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
     company_url: ''
