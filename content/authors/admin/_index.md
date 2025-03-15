@@ -38,7 +38,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=PnepW0YAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0003-1641-6820
+    url: https://orcid.org/0000-0003-1641-6820
 
 interests:
   - Trapped-ion quantum hardware – Designing and optimizing scalable quantum processors.
