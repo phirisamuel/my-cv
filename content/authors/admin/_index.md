@@ -118,7 +118,7 @@ work:
       - Conducted numerical simulations and developed physical models for quantum systems.
       - Contributed to the development of a quantum simulation algorithm for thermal state preparation using dynamic circuits.
   - position: Electrical and Computer Engineering REU
-    company_name: Duke University, Pratt School of Engineering, 
+    company_name: Duke University, Pratt School of Engineering
     company_url: ''
     company_logo: ''
     date_start: 2018-05-15
@@ -128,7 +128,36 @@ work:
       - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
       - Controlled the defect density of GAC and modified its surface to improve $H_2O_2$ generation
       - Studied GAC electrodes and their surface chemistry in producing $H_2O_2$ following N-doping by annealing in $NH_3$
-      
+  - position: Undergraduate Learning Assistant (Lab Mentor): Introduction to Engineering Modeling
+    company_name: Michigan State University, College of Engineering
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01-15
+    date_end: 2019-05-2
+    summary: |
+      Responsibilities include:
+      - Guided students through laboratory assignments relating to system identification and modeling using MATLAB and Excel
+      - Responded to any student questions regarding laboratory rules, assignments, lectures and projects
+      - Assisted Teaching Assistants (TAs) to facilitate open laboratory hours
+  - position: Electrical Engineering Research Intern
+    company_name: University of Cape Town, Control Laboratory 
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-05-15
+    date_end: 2017-08-2
+    summary: |
+  - position: Honors Research Assistant
+    company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-08-15
+    date_end: 2017-05-2
+    summary: |
+      Responsibilities include:
+      - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
+      - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
+ 
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
