@@ -128,6 +128,17 @@ work:
       - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
       - Controlled the defect density of GAC and modified its surface to improve $H_2O_2$ generation
       - Studied GAC electrodes and their surface chemistry in producing $H_2O_2$ following N-doping by annealing in $NH_3$
+    - position: Electrical and Computer Engineering REU
+    company_name: Duke University, Pratt School of Engineering
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-05-15
+    date_end: 2018-07-20
+    summary: |
+      Responsibilities include:
+      - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
+      - Controlled the defect density of GAC and modified its surface to improve $H_2O_2$ generation
+      - Studied GAC electrodes and their surface chemistry in producing $H_2O_2$ following N-doping by annealing in $NH_3$
   # - position: Undergraduate Learning Assistant (Lab Mentor): Introduction to Engineering Modeling
   #   company_name: Michigan State University, College of Engineering
   #   company_url: ''
@@ -148,16 +159,16 @@ work:
   #   summary: |
   #     Responsibilities include:
   #     -  
-  - position: Honors Research Assistant
-    company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-08-15
-    date_end: 2017-05-2
-    summary: |
-      Responsibilities include:
-      - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
-      - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
+  # - position: Honors Research Assistant
+  #   company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-08-15
+  #   date_end: 2017-05-2
+  #   summary: |
+  #     Responsibilities include:
+  #     - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
+  #     - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
  
 
 # Skills
