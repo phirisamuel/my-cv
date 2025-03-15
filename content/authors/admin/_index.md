@@ -228,30 +228,6 @@ skills:
         description: ''
         percent: 80
         # icon: camera
-  - name: Hardware/Systems
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Cryogenic UHV systems
-        description: ''
-        percent: 60
-        # icon: person-simple-walk
-      - name: Optical microscopes & profilometers
-        description: ''
-        percent: 100
-        # icon: cat
-      - name: Oscilloscopes
-        description: ''
-        percent: 80
-        # icon: camera
-      - name: Automated data acquisition
-        description: ''
-        percent: 60
-        # icon: person-simple-walk
-      - name: Artiq Sinara devices
-        description: ''
-        percent: 100
-        # icon: cat
   - name: Modeling and Simulation
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -280,7 +256,30 @@ skills:
         description: ''
         percent: 80
         # icon: camera
-
+  - name: Hardware/Systems
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Cryogenic UHV systems
+        description: ''
+        percent: 60
+        # icon: person-simple-walk
+      - name: Optical microscopes & profilometers
+        description: ''
+        percent: 100
+        # icon: cat
+      - name: Oscilloscopes
+        description: ''
+        percent: 80
+        # icon: camera
+      - name: Automated data acquisition
+        description: ''
+        percent: 60
+        # icon: person-simple-walk
+      - name: Artiq Sinara devices
+        description: ''
+        percent: 100
+        # icon: cat
 languages:
   - name: English
     percent: 100
