@@ -67,9 +67,19 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Quantum Mechanics
+      - Quantum Chemistry
+      - Quantum Information Science
+      - Advanced Optics
+      - Electromagnetic Theory
+      - Electromagnetic Communication Systems
+      - Microwave Electronics Circuits
+      - Random Signals and Noise
+      - Introduction to Quantum Engineering
+      - Quantum Engineering with Atoms
+      - Quantum Error Correction
+      - Fourier Transform and Application
+      - Computational Physics
   - area: BS Electrical Engineering
     institution: Michigan State University
     date_start: 2015-08-15
