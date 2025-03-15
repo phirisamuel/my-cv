@@ -128,17 +128,17 @@ work:
       - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
       - Controlled the defect density of GAC and modified its surface to improve $H_2O_2$ generation
       - Studied GAC electrodes and their surface chemistry in producing $H_2O_2$ following N-doping by annealing in $NH_3$
-  - position: Undergraduate Learning Assistant (Lab Mentor): Introduction to Engineering Modeling
-    company_name: Michigan State University, College of Engineering
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-01-15
-    date_end: 2019-05-2
-    summary: |
-      Responsibilities include:
-      - Guided students through laboratory assignments relating to system identification and modeling using MATLAB and Excel
-      - Responded to any student questions regarding laboratory rules, assignments, lectures and projects
-      - Assisted Teaching Assistants (TAs) to facilitate open laboratory hours
+  # - position: Undergraduate Learning Assistant (Lab Mentor): Introduction to Engineering Modeling
+  #   company_name: Michigan State University, College of Engineering
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2018-01-15
+  #   date_end: 2019-05-2
+  #   summary: |
+  #     Responsibilities include:
+  #     - Guided students through laboratory assignments relating to system identification and modeling using MATLAB and Excel
+  #     - Responded to any student questions regarding laboratory rules, assignments, lectures and projects
+  #     - Assisted Teaching Assistants (TAs) to facilitate open laboratory hours
   # - position: Electrical Engineering Research Intern
   #   company_name: University of Cape Town, Control Laboratory 
   #   company_url: ''
