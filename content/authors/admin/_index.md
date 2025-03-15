@@ -139,25 +139,25 @@ work:
       - Guided students through laboratory assignments relating to system identification and modeling using MATLAB and Excel
       - Responded to any student questions regarding laboratory rules, assignments, lectures and projects
       - Assisted Teaching Assistants (TAs) to facilitate open laboratory hours
-  - position: Electrical Engineering Research Intern
-    company_name: University of Cape Town, Control Laboratory 
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-05-15
-    date_end: 2017-08-2
-    summary: |
-      Responsibilities include:
-      -  
-  - position: Honors Research Assistant
-    company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-08-15
-    date_end: 2017-05-2
-    summary: |
-      Responsibilities include:
-      - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
-      - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
+  # - position: Electrical Engineering Research Intern
+  #   company_name: University of Cape Town, Control Laboratory 
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2017-05-15
+  #   date_end: 2017-08-2
+  #   summary: |
+  #     Responsibilities include:
+  #     -  
+  # - position: Honors Research Assistant
+  #   company_name: Michigan State University, National Superconducting Cyclotron Laboratory 
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-08-15
+  #   date_end: 2017-05-2
+  #   summary: |
+  #     Responsibilities include:
+  #     - Used the Renormalization Group (RG) flow equation to identify the most important degrees of freedom in calculations of nuclear properties.
+  #     - Applied the RG transformations to simple matrix models to diagnose the conditions under which uncontrolled errors occur 
  
 
 # Skills
