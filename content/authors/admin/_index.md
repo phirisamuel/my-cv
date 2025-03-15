@@ -159,7 +159,7 @@ awards:
     url: https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/
     date: '2019-08-17'
     awarder: Mastercard Foundation 
-    icon: coursera
+    icon: 
     summary: |
       The Mastercard Foundation Scholars Program is a global initiative empowering the next generation of transformative leaders. It supports talented, service-driven students in accessing higher education and developing their leadership potential to create meaningful impact in their communities.
   # - title: Blockchain Fundamentals
