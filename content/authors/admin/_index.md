@@ -167,20 +167,35 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Experimental
     items:
-      - name: Python
+      - name: Device testing and characterization
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        # icon: code-bracket
+      - name: Optical profilometry
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        # icon: chart-bar
+      - name: Probe station measurement
         description: ''
         percent: 40
-        icon: circle-stack
+      - name: Mode-locked CW lasers
+        description: ''
+        percent: 40  
+      - name: Low-noise DC & RF electronics
+        description: ''
+        percent: 40   
+      - name: Laser spectroscopy
+        description: ''
+        percent: 40
+      - name: Laser cooling
+        description: ''
+        percent: 40
+      - name: Failure analysis
+        description: ''
+        percent: 40
+        # icon: circle-stack
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
