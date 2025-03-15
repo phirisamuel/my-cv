@@ -126,8 +126,8 @@ work:
     summary: |
       Responsibilities include:
       - Used Granular Activated Carbon (GAC) as a bed media to catalyze an Oxygen Reduction Reaction (ORR) in a Packed Bed Electrochemical Reactor (PBER) to study its selectivity for generation of a biocidal oxidants.
-      - Controlled the defect density of GAC and modified its surface to improve H_2O_2 generation
-      - Studied GAC electrodes and their surface chemistry in producing H_2O_2 following N-doping by annealing in NH_3
+      - Controlled the defect density of GAC and modified its surface to improve $H_2O_2$ generation
+      - Studied GAC electrodes and their surface chemistry in producing $H_2O_2$ following N-doping by annealing in $NH_3$
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
