@@ -64,7 +64,6 @@ education:
     date_start: 2019-08-17
     date_end: 2022-06-30
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
       - Quantum Mechanics
@@ -88,9 +87,13 @@ education:
       GPA: 3.75/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Digital Signal Processing & Filter Design
+      - Communication Systems
+      - Radio Frequency Electronic Circuits
+      - Microprocessors and Digital Systems
+      - Control Systems
+      - Circuits and Systems
+      - Principals of Electronic Devices
 work:
   - position: Graduate Research Assistant
     company_name: Duke Quantum Center
