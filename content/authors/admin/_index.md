@@ -232,34 +232,26 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Python (Hardware control and automation)
+      - name: Cryogenic UHV systems
         description: ''
         percent: 60
         # icon: person-simple-walk
-      - name: MATLAB
+      - name: Optical microscopes & profilometers
         description: ''
         percent: 100
         # icon: cat
-      - name: Mathematica
+      - name: Oscilloscopes
         description: ''
         percent: 80
         # icon: camera
-      - name: C
+      - name: Automated data acquisition
         description: ''
         percent: 60
         # icon: person-simple-walk
-      - name: VHDL/Verilog
+      - name: Artiq Sinara devices
         description: ''
         percent: 100
         # icon: cat
-      - name: Assembly language
-        description: ''
-        percent: 80
-        # icon: camera
-      - name: Qiskit (Quantum Computing SDK)
-        description: ''
-        percent: 80
-        # icon: camera
   - name: Modeling and Simulation
     color: '#eeac02'
     color_border: '#f0bf23'
