@@ -228,7 +228,66 @@ skills:
         description: ''
         percent: 80
         # icon: camera
-
+  - name: Modeling and Simulation
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Zemax
+        description: ''
+        percent: 60
+        # icon: person-simple-walk
+      - name: SolidWorks
+        description: ''
+        percent: 100
+        # icon: cat
+      - name: COMSOL
+        description: ''
+        percent: 80
+        # icon: camera
+      - name: orCAD Capture & PSPICE
+        description: ''
+        percent: 60
+        # icon: person-simple-walk
+      - name: Xilinx ISE
+        description: ''
+        percent: 100
+        # icon: cat
+      - name: Siemens NX
+        description: ''
+        percent: 80
+        # icon: camera
+  - name: Hardware/Systems
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Python (Hardware control and automation)
+        description: ''
+        percent: 60
+        # icon: person-simple-walk
+      - name: MATLAB
+        description: ''
+        percent: 100
+        # icon: cat
+      - name: Mathematica
+        description: ''
+        percent: 80
+        # icon: camera
+      - name: C
+        description: ''
+        percent: 60
+        # icon: person-simple-walk
+      - name: VHDL/Verilog
+        description: ''
+        percent: 100
+        # icon: cat
+      - name: Assembly language
+        description: ''
+        percent: 80
+        # icon: camera
+      - name: Qiskit (Quantum Computing SDK)
+        description: ''
+        percent: 80
+        # icon: camera
 languages:
   - name: English
     percent: 100
