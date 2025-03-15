@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:samuel.phiri.jayr@gmail.com'
+    url: 'mailto:samuel.phiri@duke.edu'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/samuel-phiri/
