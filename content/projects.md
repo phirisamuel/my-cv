@@ -20,5 +20,5 @@ sections:
       # view: article-grid
       view: article-list
       fill_image: false
-      columns: 3
+      columns: 5
 ---
